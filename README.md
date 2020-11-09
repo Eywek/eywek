@@ -2,14 +2,10 @@
 
 I am a **french software engineer** currently working at [@reelevant-tech](https://github.com/reelevant-tech).
 
-### About me 💬
-
 I've learn to code in 2013 with a Minecraft free CMS and I've kept working on side projects during my studies, the biggest one is [@MineWeb](https://github.com/MineWeb/MineWebCMS).
 
 - 📗 &nbsp;Ex-42born2code's student from nov. 2017 to feb. 2018
 - 👨‍💻 &nbsp;Previously at [@keymetrics](https://github.com/keymetrics)
-
-### Used techs 💻
 
 I've done a lot of PHP until 2017, I'm now using Typescript as main language.
 
@@ -23,7 +19,3 @@ I've done a lot of PHP until 2017, I'm now using Typescript as main language.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" width="50">&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" width="50">&nbsp;
 </p>
-
-### Contacts 📫
-
-<p align="center"><a href="https://eywek.fr">Website</a> • <a href="https://www.linkedin.com/in/eywek/">Linkedin</a> • <a href="https://twitter.com/eywek">Twitter</a></p>
