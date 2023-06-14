@@ -5,7 +5,7 @@ I've learn to code in 2013 with a Minecraft free CMS and I've kept working on si
 
 - 📗 &nbsp;Ex-42born2code's student from nov. 2017 to feb. 2018
 - 👨‍💻 &nbsp;Previously doing some Typescript and infrastructure at [@keymetrics](https://github.com/keymetrics)
-- → &nbsp;Currently lead core engineer at [@reelevant](https://github.com/reelevant-tech) mostly doing Typescript
+- → &nbsp;Currently lead core engineer at [@reelevant](https://github.com/reelevant-tech) mostly doing Typescript and some Rust
 
 ## Skills
 
