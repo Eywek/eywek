@@ -14,6 +14,7 @@ I've learn to code in 2013 with a Minecraft free CMS and I've kept working on si
 - PHP between 2013 and 2017 (i.e. [MineWeb](https://github.com/MineWeb/MineWebCMS), [ObsiFight](https://github.com/Obsifight/obsifight.net))
 - C between 2017 and 2018 (i.e. [42 piscine](https://github.com/Eywek/42-piscine), [42 workspace](https://github.com/Eywek/42), [42 project](https://github.com/Eywek/doom-editor))
 - Typescript since 2018 (i.e. [typoa](https://github.com/Eywek/typoa), [tgvmax bot](https://github.com/Eywek/tgvmax-bot) and a lot of internal company projects)
+- Rust since may 2023 (content engine using [rust-skia](https://github.com/rust-skia/rust-skia))
 - Some Java (i.e. [PrestoDB pull-request](https://github.com/prestodb/presto/pull/17225), [Pulsar Plugin for Apache Pinot](https://github.com/reelevant-tech/pinot-pulsar-plugin/)), Golang (i.e. [Pinot proxy](https://github.com/reelevant-tech/pinop)), Swift (i.e. [Reelevant iOS SDK](https://github.com/reelevant-tech/analytics-ios)) and Rust (i.e. [Reelevant neuquant fork](https://github.com/reelevant-tech/neuquant))
 
 ### 💾 Databases / queues
