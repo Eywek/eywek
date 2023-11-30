@@ -4,8 +4,9 @@ I am a **french software engineer** currently working at [@reelevant-tech](https
 I've learn to code in 2013 with a Minecraft free CMS and I've kept working on side projects during my studies, the biggest one is [@MineWeb](https://github.com/MineWeb/MineWebCMS).
 
 - 📗 &nbsp;Ex-42born2code's student from nov. 2017 to feb. 2018
-- 👨‍💻 &nbsp;Previously doing some Typescript and infrastructure at [@keymetrics](https://github.com/keymetrics)
-- → &nbsp;Currently lead core engineer at [@reelevant](https://github.com/reelevant-tech) mostly doing Typescript and some Rust
+- 👨‍💻 &nbsp;Previously doing some Typescript and infrastructure at [@keymetrics](https://github.com/keymetrics) from feb. 2018 to sep. 2019
+- 👨‍💻 &nbsp;Previously lead core engineer at [@reelevant](https://github.com/reelevant-tech) mostly doing Typescript and some Rust from sep. 2019 to dec. 2023
+- → &nbsp;Currently Software Engineer II at [@datadog](https://github.com/datadog) doing some Golang since jan. 2024
 
 ## Skills
 
